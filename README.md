@@ -7,11 +7,11 @@ League of Legends zoom hack, unlimited zoom out 2023/04/21
 
 <span align="center">
 
-# Verified By Homebridge
+# Created using Homebridge injection
 
 </span>
 
-The **Created using Homebridge** program allows plugin developers to get their plugins reviewed and endorsed by the Homebridge project team.
+The **Verified League OF Legends unlimited zoom out** program allows to edit zoom packets without anti-cheat detection.
 
 ## Benefits
 
