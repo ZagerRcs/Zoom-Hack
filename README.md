@@ -1,5 +1,9 @@
-# Zoom-Hack
-League of Legends zoom hack, unlimited zoom out 2023/04/21
+# Zoom-Hack 2023/04/21
+League of Legends zoom hack, unlimited zoom out
+Free to use exploit zoom edit without scripts.
+
+Video in action:
+https://www.youtube.com/watch?v=mpQkNDnl1wU
 
 <p align="center">
   <a href="https://github.com/homebridge/homebridge"><img src="https://raw.githubusercontent.com/homebridge/branding/master/logos/homebridge-color-round-stylized.png" height="140"></a>
